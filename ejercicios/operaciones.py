@@ -2,4 +2,6 @@
 def es_par(numero):
 
     # El alumno deberá implementar correctamente el código de la función para pasar el test correspondiente
+    ######
+    
     return numero % 2 == 0
